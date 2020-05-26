@@ -1,7 +1,6 @@
-# hello-world
-Just another repository
+# hello-github
 
-Hi！
+Hey guys！
 Emmmm...I am KUN.
 That's my first file on GitHub.
 I will be better from now on.
